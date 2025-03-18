@@ -11,26 +11,8 @@ A **cross-platform** Flutter project built with **Dart** to deliver a smooth and
 
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-username/flutter_application_1.git
-Navigate to the project directory
-sh
-Copy
-Edit
-cd flutter_application_1
-Install dependencies
-sh
-Copy
-Edit
-flutter pub get
-Run the app
-sh
-Copy
-Edit
-flutter run
-📂 Project Structure
-bash
-Copy
-Edit
+   git clone https://github.com/Maheszzz/flutter_application_1.git
+
 flutter_application_1/
  ├── lib/                # Main application code
  │   ├── main.dart       # Entry point
